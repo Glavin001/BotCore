@@ -1,0 +1,37 @@
+{
+  "name": "botcore",
+  "version": "0.1.0",
+  "description": "Unified bot building framework.",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "lodash": "^4.11.1",
+    "node-wit": "^3.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glavin001/BotCore.git"
+  },
+  "keywords": [
+    "bot",
+    "slack",
+    "facebook",
+    "messenger",
+    "telegram",
+    "wit",
+    "wit.ai",
+    "api.ai"
+  ],
+  "author": "Glavin Wiechert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Glavin001/BotCore/issues"
+  },
+  "homepage": "https://github.com/Glavin001/BotCore#readme"
+}
